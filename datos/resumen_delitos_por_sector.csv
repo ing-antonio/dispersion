@@ -1,0 +1,1148 @@
+nombre_sec,evaluacion,categoria_delito,total,total_delitos
+ABASTO-REFORMA,primera,Homicidio doloso,3,112
+ABASTO-REFORMA,primera,Lesiones dolosas por disparo de arma de fuego,2,112
+ABASTO-REFORMA,primera,Robo a casa habitación con violencia,2,112
+ABASTO-REFORMA,primera,Robo a negocio con violencia,17,112
+ABASTO-REFORMA,primera,Robo a pasajero a bordo de microbús con y sin violencia,5,112
+ABASTO-REFORMA,primera,Robo a pasajero a bordo de taxi con violencia,2,112
+ABASTO-REFORMA,primera,Robo a repartidor con y sin violencia,3,112
+ABASTO-REFORMA,primera,Robo a transeúnte en vía pública con violencia,24,112
+ABASTO-REFORMA,primera,Robo a transportista con y sin violencia,1,112
+ABASTO-REFORMA,primera,Robo de vehículo con violencia,4,112
+ABASTO-REFORMA,primera,Robo de vehículo sin violencia,49,112
+ABASTO-REFORMA,segunda,Homicidio doloso,9,125
+ABASTO-REFORMA,segunda,Lesiones dolosas por disparo de arma de fuego,2,125
+ABASTO-REFORMA,segunda,Robo a casa habitación con violencia,1,125
+ABASTO-REFORMA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,125
+ABASTO-REFORMA,segunda,Robo a negocio con violencia,14,125
+ABASTO-REFORMA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,125
+ABASTO-REFORMA,segunda,Robo a repartidor con y sin violencia,3,125
+ABASTO-REFORMA,segunda,Robo a transeúnte en vía pública con violencia,28,125
+ABASTO-REFORMA,segunda,Robo de vehículo con violencia,8,125
+ABASTO-REFORMA,segunda,Robo de vehículo sin violencia,57,125
+ALAMEDA,primera,Homicidio doloso,1,26
+ALAMEDA,primera,Lesiones dolosas por disparo de arma de fuego,1,26
+ALAMEDA,primera,Robo a negocio con violencia,2,26
+ALAMEDA,primera,Robo a transeúnte en vía pública con violencia,20,26
+ALAMEDA,primera,Robo de vehículo sin violencia,2,26
+ALAMEDA,segunda,Homicidio doloso,2,39
+ALAMEDA,segunda,Lesiones dolosas por disparo de arma de fuego,1,39
+ALAMEDA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,39
+ALAMEDA,segunda,Robo a negocio con violencia,3,39
+ALAMEDA,segunda,Robo a pasajero a bordo de taxi con violencia,2,39
+ALAMEDA,segunda,Robo a pasajero a bordo del metro con violencia,1,39
+ALAMEDA,segunda,Robo a repartidor con y sin violencia,1,39
+ALAMEDA,segunda,Robo a transeúnte en vía pública con violencia,23,39
+ALAMEDA,segunda,Robo de vehículo con violencia,3,39
+ALAMEDA,segunda,Robo de vehículo sin violencia,2,39
+ALPES,primera,Homicidio doloso,2,45
+ALPES,primera,Lesiones dolosas por disparo de arma de fuego,1,45
+ALPES,primera,Robo a negocio con violencia,4,45
+ALPES,primera,Robo a repartidor con y sin violencia,2,45
+ALPES,primera,Robo a transeúnte en vía pública con violencia,26,45
+ALPES,primera,Robo de vehículo con violencia,4,45
+ALPES,primera,Robo de vehículo sin violencia,6,45
+ALPES,segunda,Homicidio doloso,2,42
+ALPES,segunda,Robo a negocio con violencia,4,42
+ALPES,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,42
+ALPES,segunda,Robo a transeúnte en vía pública con violencia,25,42
+ALPES,segunda,Robo de vehículo sin violencia,10,42
+ANGEL,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,48
+ANGEL,primera,Robo a negocio con violencia,5,48
+ANGEL,primera,Robo a pasajero a bordo de taxi con violencia,1,48
+ANGEL,primera,Robo a pasajero a bordo del metro con violencia,2,48
+ANGEL,primera,Robo a transeúnte en vía pública con violencia,30,48
+ANGEL,primera,Robo de vehículo con violencia,1,48
+ANGEL,primera,Robo de vehículo sin violencia,8,48
+ANGEL,segunda,Homicidio doloso,2,48
+ANGEL,segunda,Lesiones dolosas por disparo de arma de fuego,1,48
+ANGEL,segunda,Robo a negocio con violencia,1,48
+ANGEL,segunda,Robo a repartidor con y sin violencia,1,48
+ANGEL,segunda,Robo a transeúnte en vía pública con violencia,27,48
+ANGEL,segunda,Robo de vehículo sin violencia,16,48
+ARAGON,primera,Homicidio doloso,2,58
+ARAGON,primera,Lesiones dolosas por disparo de arma de fuego,1,58
+ARAGON,primera,Robo a negocio con violencia,10,58
+ARAGON,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,58
+ARAGON,primera,Robo a pasajero a bordo del metro con violencia,1,58
+ARAGON,primera,Robo a repartidor con y sin violencia,1,58
+ARAGON,primera,Robo a transeúnte en vía pública con violencia,20,58
+ARAGON,primera,Robo de vehículo con violencia,5,58
+ARAGON,primera,Robo de vehículo sin violencia,17,58
+ARAGON,segunda,Homicidio doloso,3,60
+ARAGON,segunda,Lesiones dolosas por disparo de arma de fuego,3,60
+ARAGON,segunda,Robo a casa habitación con violencia,1,60
+ARAGON,segunda,Robo a negocio con violencia,8,60
+ARAGON,segunda,Robo a pasajero a bordo de taxi con violencia,1,60
+ARAGON,segunda,Robo a repartidor con y sin violencia,4,60
+ARAGON,segunda,Robo a transeúnte en vía pública con violencia,17,60
+ARAGON,segunda,Robo a transportista con y sin violencia,1,60
+ARAGON,segunda,Robo de vehículo con violencia,1,60
+ARAGON,segunda,Robo de vehículo sin violencia,21,60
+ARENAL,primera,Robo a casa habitación con violencia,3,29
+ARENAL,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,29
+ARENAL,primera,Robo a negocio con violencia,3,29
+ARENAL,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,29
+ARENAL,primera,Robo a pasajero a bordo de taxi con violencia,1,29
+ARENAL,primera,Robo a pasajero a bordo del metro con violencia,1,29
+ARENAL,primera,Robo a transeúnte en vía pública con violencia,6,29
+ARENAL,primera,Robo de vehículo con violencia,1,29
+ARENAL,primera,Robo de vehículo sin violencia,11,29
+ARENAL,segunda,Homicidio doloso,2,40
+ARENAL,segunda,Robo a negocio con violencia,2,40
+ARENAL,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,40
+ARENAL,segunda,Robo a pasajero a bordo del metro con violencia,1,40
+ARENAL,segunda,Robo a repartidor con y sin violencia,1,40
+ARENAL,segunda,Robo a transeúnte en vía pública con violencia,12,40
+ARENAL,segunda,Robo de vehículo con violencia,6,40
+ARENAL,segunda,Robo de vehículo sin violencia,14,40
+ASTURIAS,primera,Homicidio doloso,2,58
+ASTURIAS,primera,Lesiones dolosas por disparo de arma de fuego,2,58
+ASTURIAS,primera,Robo a negocio con violencia,7,58
+ASTURIAS,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,58
+ASTURIAS,primera,Robo a repartidor con y sin violencia,1,58
+ASTURIAS,primera,Robo a transeúnte en vía pública con violencia,33,58
+ASTURIAS,primera,Robo de vehículo con violencia,2,58
+ASTURIAS,primera,Robo de vehículo sin violencia,9,58
+ASTURIAS,segunda,Homicidio doloso,6,57
+ASTURIAS,segunda,Lesiones dolosas por disparo de arma de fuego,2,57
+ASTURIAS,segunda,Robo a casa habitación con violencia,1,57
+ASTURIAS,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,57
+ASTURIAS,segunda,Robo a negocio con violencia,8,57
+ASTURIAS,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,57
+ASTURIAS,segunda,Robo a repartidor con y sin violencia,2,57
+ASTURIAS,segunda,Robo a transeúnte en vía pública con violencia,23,57
+ASTURIAS,segunda,Robo de vehículo con violencia,1,57
+ASTURIAS,segunda,Robo de vehículo sin violencia,12,57
+BUENAVISTA,primera,Homicidio doloso,5,57
+BUENAVISTA,primera,Robo a negocio con violencia,5,57
+BUENAVISTA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,57
+BUENAVISTA,primera,Robo a pasajero a bordo de taxi con violencia,1,57
+BUENAVISTA,primera,Robo a pasajero a bordo del metro con violencia,1,57
+BUENAVISTA,primera,Robo a repartidor con y sin violencia,2,57
+BUENAVISTA,primera,Robo a transeúnte en vía pública con violencia,29,57
+BUENAVISTA,primera,Robo de vehículo sin violencia,13,57
+BUENAVISTA,segunda,Homicidio doloso,4,47
+BUENAVISTA,segunda,Lesiones dolosas por disparo de arma de fuego,2,47
+BUENAVISTA,segunda,Robo a casa habitación con violencia,1,47
+BUENAVISTA,segunda,Robo a negocio con violencia,5,47
+BUENAVISTA,segunda,Robo a transeúnte en vía pública con violencia,23,47
+BUENAVISTA,segunda,Robo de vehículo con violencia,2,47
+BUENAVISTA,segunda,Robo de vehículo sin violencia,10,47
+CENTRO,primera,Homicidio doloso,4,26
+CENTRO,primera,Lesiones dolosas por disparo de arma de fuego,2,26
+CENTRO,primera,Robo a negocio con violencia,2,26
+CENTRO,primera,Robo a pasajero a bordo de taxi con violencia,1,26
+CENTRO,primera,Robo a repartidor con y sin violencia,1,26
+CENTRO,primera,Robo a transeúnte en vía pública con violencia,14,26
+CENTRO,primera,Robo de vehículo con violencia,1,26
+CENTRO,primera,Robo de vehículo sin violencia,1,26
+CENTRO,segunda,Homicidio doloso,3,38
+CENTRO,segunda,Lesiones dolosas por disparo de arma de fuego,4,38
+CENTRO,segunda,Robo a repartidor con y sin violencia,5,38
+CENTRO,segunda,Robo a transeúnte en vía pública con violencia,20,38
+CENTRO,segunda,Robo de vehículo con violencia,2,38
+CENTRO,segunda,Robo de vehículo sin violencia,4,38
+CHAPULTEPEC,primera,Robo a negocio con violencia,1,4
+CHAPULTEPEC,primera,Robo a transeúnte en vía pública con violencia,1,4
+CHAPULTEPEC,primera,Robo de vehículo sin violencia,2,4
+CHAPULTEPEC,segunda,Robo a casa habitación con violencia,1,4
+CHAPULTEPEC,segunda,Robo a negocio con violencia,1,4
+CHAPULTEPEC,segunda,Robo a transeúnte en vía pública con violencia,1,4
+CHAPULTEPEC,segunda,Robo de vehículo sin violencia,1,4
+CHURUBUSCO,primera,Homicidio doloso,1,39
+CHURUBUSCO,primera,Lesiones dolosas por disparo de arma de fuego,1,39
+CHURUBUSCO,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,39
+CHURUBUSCO,primera,Robo a negocio con violencia,10,39
+CHURUBUSCO,primera,Robo a repartidor con y sin violencia,3,39
+CHURUBUSCO,primera,Robo a transeúnte en vía pública con violencia,11,39
+CHURUBUSCO,primera,Robo de vehículo con violencia,2,39
+CHURUBUSCO,primera,Robo de vehículo sin violencia,10,39
+CHURUBUSCO,segunda,Lesiones dolosas por disparo de arma de fuego,2,55
+CHURUBUSCO,segunda,Robo a casa habitación con violencia,1,55
+CHURUBUSCO,segunda,Robo a negocio con violencia,7,55
+CHURUBUSCO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,55
+CHURUBUSCO,segunda,Robo a repartidor con y sin violencia,4,55
+CHURUBUSCO,segunda,Robo a transeúnte en vía pública con violencia,15,55
+CHURUBUSCO,segunda,Robo de vehículo con violencia,2,55
+CHURUBUSCO,segunda,Robo de vehículo sin violencia,22,55
+CLAVERIA,primera,Homicidio doloso,1,70
+CLAVERIA,primera,Lesiones dolosas por disparo de arma de fuego,1,70
+CLAVERIA,primera,Robo a casa habitación con violencia,1,70
+CLAVERIA,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,70
+CLAVERIA,primera,Robo a negocio con violencia,20,70
+CLAVERIA,primera,Robo a repartidor con y sin violencia,2,70
+CLAVERIA,primera,Robo a transeúnte en vía pública con violencia,30,70
+CLAVERIA,primera,Robo a transportista con y sin violencia,1,70
+CLAVERIA,primera,Robo de vehículo con violencia,1,70
+CLAVERIA,primera,Robo de vehículo sin violencia,11,70
+CLAVERIA,segunda,Homicidio doloso,3,63
+CLAVERIA,segunda,Lesiones dolosas por disparo de arma de fuego,1,63
+CLAVERIA,segunda,Robo a casa habitación con violencia,1,63
+CLAVERIA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,3,63
+CLAVERIA,segunda,Robo a negocio con violencia,16,63
+CLAVERIA,segunda,Robo a repartidor con y sin violencia,4,63
+CLAVERIA,segunda,Robo a transeúnte en vía pública con violencia,20,63
+CLAVERIA,segunda,Robo de vehículo con violencia,3,63
+CLAVERIA,segunda,Robo de vehículo sin violencia,12,63
+COAPA,primera,Homicidio doloso,1,59
+COAPA,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,59
+COAPA,primera,Robo a negocio con violencia,4,59
+COAPA,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,59
+COAPA,primera,Robo a pasajero a bordo de taxi con violencia,2,59
+COAPA,primera,Robo a repartidor con y sin violencia,2,59
+COAPA,primera,Robo a transeúnte en vía pública con violencia,14,59
+COAPA,primera,Robo de vehículo con violencia,1,59
+COAPA,primera,Robo de vehículo sin violencia,31,59
+COAPA,segunda,Robo a negocio con violencia,2,54
+COAPA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,3,54
+COAPA,segunda,Robo a transeúnte en vía pública con violencia,11,54
+COAPA,segunda,Robo de vehículo con violencia,3,54
+COAPA,segunda,Robo de vehículo sin violencia,35,54
+CONGRESO,primera,Lesiones dolosas por disparo de arma de fuego,1,18
+CONGRESO,primera,Robo a negocio con violencia,1,18
+CONGRESO,primera,Robo a repartidor con y sin violencia,1,18
+CONGRESO,primera,Robo a transeúnte en vía pública con violencia,14,18
+CONGRESO,primera,Robo de vehículo con violencia,1,18
+CONGRESO,segunda,Homicidio doloso,2,20
+CONGRESO,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,20
+CONGRESO,segunda,Robo a negocio con violencia,3,20
+CONGRESO,segunda,Robo a repartidor con y sin violencia,3,20
+CONGRESO,segunda,Robo a transeúnte en vía pública con violencia,9,20
+CONGRESO,segunda,Robo a transportista con y sin violencia,1,20
+CONGRESO,segunda,Robo de vehículo con violencia,1,20
+CONSULADO,primera,Homicidio doloso,7,36
+CONSULADO,primera,Lesiones dolosas por disparo de arma de fuego,1,36
+CONSULADO,primera,Robo a negocio con violencia,2,36
+CONSULADO,primera,Robo a repartidor con y sin violencia,1,36
+CONSULADO,primera,Robo a transeúnte en vía pública con violencia,11,36
+CONSULADO,primera,Robo de vehículo con violencia,1,36
+CONSULADO,primera,Robo de vehículo sin violencia,13,36
+CONSULADO,segunda,Homicidio doloso,4,32
+CONSULADO,segunda,Lesiones dolosas por disparo de arma de fuego,1,32
+CONSULADO,segunda,Robo a casa habitación con violencia,2,32
+CONSULADO,segunda,Robo a negocio con violencia,4,32
+CONSULADO,segunda,Robo a repartidor con y sin violencia,1,32
+CONSULADO,segunda,Robo a transeúnte en vía pública con violencia,6,32
+CONSULADO,segunda,Robo de vehículo con violencia,1,32
+CONSULADO,segunda,Robo de vehículo sin violencia,13,32
+COYOACAN,primera,Robo a casa habitación con violencia,1,49
+COYOACAN,primera,Robo a cuentahabiente saliendo del cajero con violencia,4,49
+COYOACAN,primera,Robo a negocio con violencia,4,49
+COYOACAN,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,49
+COYOACAN,primera,Robo a transeúnte en vía pública con violencia,13,49
+COYOACAN,primera,Robo de vehículo con violencia,4,49
+COYOACAN,primera,Robo de vehículo sin violencia,22,49
+COYOACAN,segunda,Homicidio doloso,1,64
+COYOACAN,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,64
+COYOACAN,segunda,Robo a negocio con violencia,10,64
+COYOACAN,segunda,Robo a repartidor con y sin violencia,1,64
+COYOACAN,segunda,Robo a transeúnte en vía pública con violencia,15,64
+COYOACAN,segunda,Robo de vehículo con violencia,5,64
+COYOACAN,segunda,Robo de vehículo sin violencia,31,64
+CUAJIMALPA,primera,Homicidio doloso,1,8
+CUAJIMALPA,primera,Robo a transeúnte en vía pública con violencia,3,8
+CUAJIMALPA,primera,Robo de vehículo sin violencia,4,8
+CUAJIMALPA,segunda,Homicidio doloso,1,16
+CUAJIMALPA,segunda,Robo a negocio con violencia,2,16
+CUAJIMALPA,segunda,Robo a repartidor con y sin violencia,1,16
+CUAJIMALPA,segunda,Robo a transeúnte en vía pública con violencia,8,16
+CUAJIMALPA,segunda,Robo de vehículo con violencia,2,16
+CUAJIMALPA,segunda,Robo de vehículo sin violencia,2,16
+CUAUTEPEC,primera,Homicidio doloso,8,55
+CUAUTEPEC,primera,Robo a casa habitación con violencia,3,55
+CUAUTEPEC,primera,Robo a negocio con violencia,2,55
+CUAUTEPEC,primera,Robo a pasajero a bordo de taxi con violencia,2,55
+CUAUTEPEC,primera,Robo a repartidor con y sin violencia,2,55
+CUAUTEPEC,primera,Robo a transeúnte en vía pública con violencia,11,55
+CUAUTEPEC,primera,Robo de vehículo con violencia,7,55
+CUAUTEPEC,primera,Robo de vehículo sin violencia,20,55
+CUAUTEPEC,segunda,Homicidio doloso,9,54
+CUAUTEPEC,segunda,Lesiones dolosas por disparo de arma de fuego,2,54
+CUAUTEPEC,segunda,Robo a negocio con violencia,2,54
+CUAUTEPEC,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,54
+CUAUTEPEC,segunda,Robo a pasajero a bordo de taxi con violencia,1,54
+CUAUTEPEC,segunda,Robo a repartidor con y sin violencia,1,54
+CUAUTEPEC,segunda,Robo a transeúnte en vía pública con violencia,12,54
+CUAUTEPEC,segunda,Robo de vehículo con violencia,3,54
+CUAUTEPEC,segunda,Robo de vehículo sin violencia,23,54
+CUCHILLA,primera,Homicidio doloso,1,31
+CUCHILLA,primera,Robo a negocio con violencia,8,31
+CUCHILLA,primera,Robo a repartidor con y sin violencia,1,31
+CUCHILLA,primera,Robo a transeúnte en vía pública con violencia,8,31
+CUCHILLA,primera,Robo de vehículo con violencia,5,31
+CUCHILLA,primera,Robo de vehículo sin violencia,8,31
+CUCHILLA,segunda,Homicidio doloso,2,37
+CUCHILLA,segunda,Lesiones dolosas por disparo de arma de fuego,4,37
+CUCHILLA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,2,37
+CUCHILLA,segunda,Robo a negocio con violencia,5,37
+CUCHILLA,segunda,Robo a transeúnte en vía pública con violencia,7,37
+CUCHILLA,segunda,Robo de vehículo con violencia,4,37
+CUCHILLA,segunda,Robo de vehículo sin violencia,13,37
+CUITLAHUAC,primera,Robo a negocio con violencia,6,25
+CUITLAHUAC,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,25
+CUITLAHUAC,primera,Robo a repartidor con y sin violencia,1,25
+CUITLAHUAC,primera,Robo a transeúnte en vía pública con violencia,7,25
+CUITLAHUAC,primera,Robo de vehículo con violencia,1,25
+CUITLAHUAC,primera,Robo de vehículo sin violencia,8,25
+CUITLAHUAC,segunda,Homicidio doloso,2,27
+CUITLAHUAC,segunda,Robo a negocio con violencia,2,27
+CUITLAHUAC,segunda,Robo a repartidor con y sin violencia,2,27
+CUITLAHUAC,segunda,Robo a transeúnte en vía pública con violencia,11,27
+CUITLAHUAC,segunda,Robo de vehículo con violencia,1,27
+CUITLAHUAC,segunda,Robo de vehículo sin violencia,9,27
+CULHUACAN,primera,Lesiones dolosas por disparo de arma de fuego,1,75
+CULHUACAN,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,75
+CULHUACAN,primera,Robo a negocio con violencia,7,75
+CULHUACAN,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,75
+CULHUACAN,primera,Robo a repartidor con y sin violencia,1,75
+CULHUACAN,primera,Robo a transeúnte en vía pública con violencia,26,75
+CULHUACAN,primera,Robo de vehículo con violencia,6,75
+CULHUACAN,primera,Robo de vehículo sin violencia,30,75
+CULHUACAN,segunda,Homicidio doloso,2,68
+CULHUACAN,segunda,Lesiones dolosas por disparo de arma de fuego,1,68
+CULHUACAN,segunda,Robo a casa habitación con violencia,2,68
+CULHUACAN,segunda,Robo a negocio con violencia,5,68
+CULHUACAN,segunda,Robo a repartidor con y sin violencia,2,68
+CULHUACAN,segunda,Robo a transeúnte en vía pública con violencia,13,68
+CULHUACAN,segunda,Robo de vehículo con violencia,2,68
+CULHUACAN,segunda,Robo de vehículo sin violencia,41,68
+DEL VALLE,primera,Robo a casa habitación con violencia,1,28
+DEL VALLE,primera,Robo a negocio con violencia,3,28
+DEL VALLE,primera,Robo a pasajero a bordo de taxi con violencia,1,28
+DEL VALLE,primera,Robo a repartidor con y sin violencia,1,28
+DEL VALLE,primera,Robo a transeúnte en vía pública con violencia,8,28
+DEL VALLE,primera,Robo de vehículo con violencia,2,28
+DEL VALLE,primera,Robo de vehículo sin violencia,12,28
+DEL VALLE,segunda,Homicidio doloso,1,39
+DEL VALLE,segunda,Robo a casa habitación con violencia,1,39
+DEL VALLE,segunda,Robo a negocio con violencia,5,39
+DEL VALLE,segunda,Robo a repartidor con y sin violencia,3,39
+DEL VALLE,segunda,Robo a transeúnte en vía pública con violencia,7,39
+DEL VALLE,segunda,Robo de vehículo con violencia,4,39
+DEL VALLE,segunda,Robo de vehículo sin violencia,18,39
+DINAMO,primera,Homicidio doloso,3,32
+DINAMO,primera,Lesiones dolosas por disparo de arma de fuego,2,32
+DINAMO,primera,Robo a casa habitación con violencia,1,32
+DINAMO,primera,Robo a negocio con violencia,3,32
+DINAMO,primera,Robo a transeúnte en vía pública con violencia,8,32
+DINAMO,primera,Robo de vehículo con violencia,2,32
+DINAMO,primera,Robo de vehículo sin violencia,13,32
+DINAMO,segunda,Lesiones dolosas por disparo de arma de fuego,3,30
+DINAMO,segunda,Robo a casa habitación con violencia,3,30
+DINAMO,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,30
+DINAMO,segunda,Robo a negocio con violencia,4,30
+DINAMO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,30
+DINAMO,segunda,Robo a repartidor con y sin violencia,1,30
+DINAMO,segunda,Robo a transeúnte en vía pública con violencia,3,30
+DINAMO,segunda,Robo de vehículo con violencia,2,30
+DINAMO,segunda,Robo de vehículo sin violencia,12,30
+EL YAQUI,primera,Robo a negocio con violencia,3,12
+EL YAQUI,primera,Robo a transeúnte en vía pública con violencia,4,12
+EL YAQUI,primera,Robo de vehículo con violencia,1,12
+EL YAQUI,primera,Robo de vehículo sin violencia,4,12
+EL YAQUI,segunda,Robo a negocio con violencia,4,14
+EL YAQUI,segunda,Robo a transeúnte en vía pública con violencia,5,14
+EL YAQUI,segunda,Robo de vehículo con violencia,2,14
+EL YAQUI,segunda,Robo de vehículo sin violencia,2,14
+EL YAQUI,segunda,Secuestro,1,14
+ESTRELLA,primera,Homicidio doloso,4,67
+ESTRELLA,primera,Lesiones dolosas por disparo de arma de fuego,1,67
+ESTRELLA,primera,Robo a negocio con violencia,6,67
+ESTRELLA,primera,Robo a pasajero a bordo de microbús con y sin violencia,4,67
+ESTRELLA,primera,Robo a repartidor con y sin violencia,2,67
+ESTRELLA,primera,Robo a transeúnte en vía pública con violencia,19,67
+ESTRELLA,primera,Robo de vehículo con violencia,7,67
+ESTRELLA,primera,Robo de vehículo sin violencia,24,67
+ESTRELLA,segunda,Homicidio doloso,2,51
+ESTRELLA,segunda,Robo a casa habitación con violencia,1,51
+ESTRELLA,segunda,Robo a negocio con violencia,4,51
+ESTRELLA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,3,51
+ESTRELLA,segunda,Robo a repartidor con y sin violencia,2,51
+ESTRELLA,segunda,Robo a transeúnte en vía pública con violencia,15,51
+ESTRELLA,segunda,Robo de vehículo con violencia,8,51
+ESTRELLA,segunda,Robo de vehículo sin violencia,16,51
+FUENTE,primera,Homicidio doloso,2,61
+FUENTE,primera,Robo a casa habitación con violencia,3,61
+FUENTE,primera,Robo a negocio con violencia,13,61
+FUENTE,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,61
+FUENTE,primera,Robo a pasajero a bordo de taxi con violencia,1,61
+FUENTE,primera,Robo a repartidor con y sin violencia,1,61
+FUENTE,primera,Robo a transeúnte en vía pública con violencia,20,61
+FUENTE,primera,Robo de vehículo con violencia,5,61
+FUENTE,primera,Robo de vehículo sin violencia,13,61
+FUENTE,primera,Secuestro,1,61
+FUENTE,segunda,Homicidio doloso,2,46
+FUENTE,segunda,Lesiones dolosas por disparo de arma de fuego,3,46
+FUENTE,segunda,Robo a negocio con violencia,5,46
+FUENTE,segunda,Robo a repartidor con y sin violencia,5,46
+FUENTE,segunda,Robo a transeúnte en vía pública con violencia,14,46
+FUENTE,segunda,Robo de vehículo con violencia,3,46
+FUENTE,segunda,Robo de vehículo sin violencia,14,46
+GRANJAS,primera,Homicidio doloso,2,47
+GRANJAS,primera,Lesiones dolosas por disparo de arma de fuego,2,47
+GRANJAS,primera,Robo a casa habitación con violencia,2,47
+GRANJAS,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,47
+GRANJAS,primera,Robo a negocio con violencia,4,47
+GRANJAS,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,47
+GRANJAS,primera,Robo a pasajero a bordo de taxi con violencia,1,47
+GRANJAS,primera,Robo a repartidor con y sin violencia,1,47
+GRANJAS,primera,Robo a transeúnte en vía pública con violencia,18,47
+GRANJAS,primera,Robo de vehículo con violencia,2,47
+GRANJAS,primera,Robo de vehículo sin violencia,10,47
+GRANJAS,segunda,Homicidio doloso,2,39
+GRANJAS,segunda,Lesiones dolosas por disparo de arma de fuego,2,39
+GRANJAS,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,39
+GRANJAS,segunda,Robo a negocio con violencia,1,39
+GRANJAS,segunda,Robo a repartidor con y sin violencia,1,39
+GRANJAS,segunda,Robo a transeúnte en vía pública con violencia,12,39
+GRANJAS,segunda,Robo de vehículo con violencia,2,39
+GRANJAS,segunda,Robo de vehículo sin violencia,18,39
+HORMIGA,primera,Homicidio doloso,3,55
+HORMIGA,primera,Robo a negocio con violencia,8,55
+HORMIGA,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,55
+HORMIGA,primera,Robo a repartidor con y sin violencia,1,55
+HORMIGA,primera,Robo a transeúnte en vía pública con violencia,21,55
+HORMIGA,primera,Robo de vehículo con violencia,3,55
+HORMIGA,primera,Robo de vehículo sin violencia,17,55
+HORMIGA,segunda,Homicidio doloso,2,61
+HORMIGA,segunda,Lesiones dolosas por disparo de arma de fuego,2,61
+HORMIGA,segunda,Robo a casa habitación con violencia,2,61
+HORMIGA,segunda,Robo a negocio con violencia,13,61
+HORMIGA,segunda,Robo a repartidor con y sin violencia,1,61
+HORMIGA,segunda,Robo a transeúnte en vía pública con violencia,20,61
+HORMIGA,segunda,Robo de vehículo con violencia,1,61
+HORMIGA,segunda,Robo de vehículo sin violencia,20,61
+HUIPULCO-HOSPITALES,primera,Homicidio doloso,4,63
+HUIPULCO-HOSPITALES,primera,Lesiones dolosas por disparo de arma de fuego,1,63
+HUIPULCO-HOSPITALES,primera,Robo a casa habitación con violencia,1,63
+HUIPULCO-HOSPITALES,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,63
+HUIPULCO-HOSPITALES,primera,Robo a negocio con violencia,13,63
+HUIPULCO-HOSPITALES,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,63
+HUIPULCO-HOSPITALES,primera,Robo a repartidor con y sin violencia,1,63
+HUIPULCO-HOSPITALES,primera,Robo a transeúnte en vía pública con violencia,14,63
+HUIPULCO-HOSPITALES,primera,Robo de vehículo con violencia,6,63
+HUIPULCO-HOSPITALES,primera,Robo de vehículo sin violencia,20,63
+HUIPULCO-HOSPITALES,segunda,Homicidio doloso,1,45
+HUIPULCO-HOSPITALES,segunda,Lesiones dolosas por disparo de arma de fuego,3,45
+HUIPULCO-HOSPITALES,segunda,Robo a negocio con violencia,8,45
+HUIPULCO-HOSPITALES,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,45
+HUIPULCO-HOSPITALES,segunda,Robo a pasajero a bordo de taxi con violencia,1,45
+HUIPULCO-HOSPITALES,segunda,Robo a transeúnte en vía pública con violencia,6,45
+HUIPULCO-HOSPITALES,segunda,Robo de vehículo con violencia,6,45
+HUIPULCO-HOSPITALES,segunda,Robo de vehículo sin violencia,19,45
+IZTACCIHUATL,primera,Homicidio doloso,1,53
+IZTACCIHUATL,primera,Lesiones dolosas por disparo de arma de fuego,4,53
+IZTACCIHUATL,primera,Robo a negocio con violencia,6,53
+IZTACCIHUATL,primera,Robo a repartidor con y sin violencia,4,53
+IZTACCIHUATL,primera,Robo a transeúnte en vía pública con violencia,17,53
+IZTACCIHUATL,primera,Robo de vehículo con violencia,10,53
+IZTACCIHUATL,primera,Robo de vehículo sin violencia,11,53
+IZTACCIHUATL,segunda,Homicidio doloso,3,54
+IZTACCIHUATL,segunda,Lesiones dolosas por disparo de arma de fuego,1,54
+IZTACCIHUATL,segunda,Robo a casa habitación con violencia,1,54
+IZTACCIHUATL,segunda,Robo a negocio con violencia,1,54
+IZTACCIHUATL,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,54
+IZTACCIHUATL,segunda,Robo a pasajero a bordo del metro con violencia,1,54
+IZTACCIHUATL,segunda,Robo a repartidor con y sin violencia,7,54
+IZTACCIHUATL,segunda,Robo a transeúnte en vía pública con violencia,17,54
+IZTACCIHUATL,segunda,Robo de vehículo con violencia,3,54
+IZTACCIHUATL,segunda,Robo de vehículo sin violencia,18,54
+LA NORIA,primera,Homicidio doloso,6,60
+LA NORIA,primera,Lesiones dolosas por disparo de arma de fuego,1,60
+LA NORIA,primera,Robo a casa habitación con violencia,3,60
+LA NORIA,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,60
+LA NORIA,primera,Robo a negocio con violencia,4,60
+LA NORIA,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,60
+LA NORIA,primera,Robo a repartidor con y sin violencia,3,60
+LA NORIA,primera,Robo a transeúnte en vía pública con violencia,11,60
+LA NORIA,primera,Robo de vehículo con violencia,13,60
+LA NORIA,primera,Robo de vehículo sin violencia,16,60
+LA NORIA,segunda,Homicidio doloso,6,56
+LA NORIA,segunda,Robo a casa habitación con violencia,2,56
+LA NORIA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,56
+LA NORIA,segunda,Robo a negocio con violencia,5,56
+LA NORIA,segunda,Robo a repartidor con y sin violencia,1,56
+LA NORIA,segunda,Robo a transeúnte en vía pública con violencia,9,56
+LA NORIA,segunda,Robo de vehículo con violencia,9,56
+LA NORIA,segunda,Robo de vehículo sin violencia,23,56
+LA RAZA,primera,Homicidio doloso,3,29
+LA RAZA,primera,Robo a negocio con violencia,3,29
+LA RAZA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,29
+LA RAZA,primera,Robo a repartidor con y sin violencia,2,29
+LA RAZA,primera,Robo a transeúnte en vía pública con violencia,10,29
+LA RAZA,primera,Robo a transportista con y sin violencia,1,29
+LA RAZA,primera,Robo de vehículo con violencia,1,29
+LA RAZA,primera,Robo de vehículo sin violencia,8,29
+LA RAZA,segunda,Homicidio doloso,3,30
+LA RAZA,segunda,Robo a negocio con violencia,4,30
+LA RAZA,segunda,Robo a pasajero a bordo de taxi con violencia,1,30
+LA RAZA,segunda,Robo a repartidor con y sin violencia,1,30
+LA RAZA,segunda,Robo a transeúnte en vía pública con violencia,12,30
+LA RAZA,segunda,Robo de vehículo con violencia,3,30
+LA RAZA,segunda,Robo de vehículo sin violencia,6,30
+LINDAVISTA,primera,Homicidio doloso,5,69
+LINDAVISTA,primera,Robo a casa habitación con violencia,1,69
+LINDAVISTA,primera,Robo a negocio con violencia,9,69
+LINDAVISTA,primera,Robo a pasajero a bordo del metro con violencia,2,69
+LINDAVISTA,primera,Robo a repartidor con y sin violencia,1,69
+LINDAVISTA,primera,Robo a transeúnte en vía pública con violencia,21,69
+LINDAVISTA,primera,Robo de vehículo con violencia,8,69
+LINDAVISTA,primera,Robo de vehículo sin violencia,22,69
+LINDAVISTA,segunda,Homicidio doloso,3,88
+LINDAVISTA,segunda,Lesiones dolosas por disparo de arma de fuego,1,88
+LINDAVISTA,segunda,Robo a negocio con violencia,13,88
+LINDAVISTA,segunda,Robo a pasajero a bordo de taxi con violencia,1,88
+LINDAVISTA,segunda,Robo a repartidor con y sin violencia,3,88
+LINDAVISTA,segunda,Robo a transeúnte en vía pública con violencia,17,88
+LINDAVISTA,segunda,Robo de vehículo con violencia,17,88
+LINDAVISTA,segunda,Robo de vehículo sin violencia,33,88
+MERCED-BALBUENA,primera,Homicidio doloso,2,48
+MERCED-BALBUENA,primera,Robo a negocio con violencia,8,48
+MERCED-BALBUENA,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,48
+MERCED-BALBUENA,primera,Robo a pasajero a bordo del metro con violencia,1,48
+MERCED-BALBUENA,primera,Robo a repartidor con y sin violencia,3,48
+MERCED-BALBUENA,primera,Robo a transeúnte en vía pública con violencia,18,48
+MERCED-BALBUENA,primera,Robo de vehículo con violencia,1,48
+MERCED-BALBUENA,primera,Robo de vehículo sin violencia,13,48
+MERCED-BALBUENA,segunda,Homicidio doloso,6,48
+MERCED-BALBUENA,segunda,Lesiones dolosas por disparo de arma de fuego,1,48
+MERCED-BALBUENA,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,48
+MERCED-BALBUENA,segunda,Robo a negocio con violencia,5,48
+MERCED-BALBUENA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,48
+MERCED-BALBUENA,segunda,Robo a repartidor con y sin violencia,2,48
+MERCED-BALBUENA,segunda,Robo a transeúnte en vía pública con violencia,15,48
+MERCED-BALBUENA,segunda,Robo de vehículo con violencia,2,48
+MERCED-BALBUENA,segunda,Robo de vehículo sin violencia,15,48
+MILPA ALTA,primera,Homicidio doloso,1,18
+MILPA ALTA,primera,Robo a casa habitación con violencia,1,18
+MILPA ALTA,primera,Robo a negocio con violencia,1,18
+MILPA ALTA,primera,Robo a transeúnte en vía pública con violencia,5,18
+MILPA ALTA,primera,Robo de vehículo con violencia,4,18
+MILPA ALTA,primera,Robo de vehículo sin violencia,6,18
+MILPA ALTA,segunda,Homicidio doloso,4,23
+MILPA ALTA,segunda,Lesiones dolosas por disparo de arma de fuego,3,23
+MILPA ALTA,segunda,Robo a casa habitación con violencia,1,23
+MILPA ALTA,segunda,Robo a transeúnte en vía pública con violencia,4,23
+MILPA ALTA,segunda,Robo de vehículo con violencia,2,23
+MILPA ALTA,segunda,Robo de vehículo sin violencia,9,23
+MIXQUIC,primera,Homicidio doloso,7,62
+MIXQUIC,primera,Lesiones dolosas por disparo de arma de fuego,2,62
+MIXQUIC,primera,Robo a casa habitación con violencia,1,62
+MIXQUIC,primera,Robo a negocio con violencia,7,62
+MIXQUIC,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,62
+MIXQUIC,primera,Robo a repartidor con y sin violencia,1,62
+MIXQUIC,primera,Robo a transeúnte en vía pública con violencia,8,62
+MIXQUIC,primera,Robo de vehículo con violencia,14,62
+MIXQUIC,primera,Robo de vehículo sin violencia,19,62
+MIXQUIC,segunda,Homicidio doloso,7,69
+MIXQUIC,segunda,Lesiones dolosas por disparo de arma de fuego,1,69
+MIXQUIC,segunda,Robo a negocio con violencia,10,69
+MIXQUIC,segunda,Robo a pasajero a bordo de microbús con y sin violencia,4,69
+MIXQUIC,segunda,Robo a repartidor con y sin violencia,1,69
+MIXQUIC,segunda,Robo a transeúnte en vía pública con violencia,17,69
+MIXQUIC,segunda,Robo de vehículo con violencia,11,69
+MIXQUIC,segunda,Robo de vehículo sin violencia,18,69
+MOCTEZUMA,primera,Homicidio doloso,4,73
+MOCTEZUMA,primera,Lesiones dolosas por disparo de arma de fuego,4,73
+MOCTEZUMA,primera,Robo a negocio con violencia,10,73
+MOCTEZUMA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,73
+MOCTEZUMA,primera,Robo a pasajero a bordo de taxi con violencia,2,73
+MOCTEZUMA,primera,Robo a repartidor con y sin violencia,4,73
+MOCTEZUMA,primera,Robo a transeúnte en vía pública con violencia,18,73
+MOCTEZUMA,primera,Robo a transportista con y sin violencia,1,73
+MOCTEZUMA,primera,Robo de vehículo con violencia,7,73
+MOCTEZUMA,primera,Robo de vehículo sin violencia,22,73
+MOCTEZUMA,segunda,Homicidio doloso,1,65
+MOCTEZUMA,segunda,Lesiones dolosas por disparo de arma de fuego,4,65
+MOCTEZUMA,segunda,Robo a negocio con violencia,10,65
+MOCTEZUMA,segunda,Robo a pasajero a bordo de taxi con violencia,2,65
+MOCTEZUMA,segunda,Robo a repartidor con y sin violencia,2,65
+MOCTEZUMA,segunda,Robo a transeúnte en vía pública con violencia,21,65
+MOCTEZUMA,segunda,Robo de vehículo con violencia,3,65
+MOCTEZUMA,segunda,Robo de vehículo sin violencia,22,65
+MORELOS,primera,Homicidio doloso,6,17
+MORELOS,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,17
+MORELOS,primera,Robo a transeúnte en vía pública con violencia,6,17
+MORELOS,primera,Robo de vehículo con violencia,3,17
+MORELOS,primera,Robo de vehículo sin violencia,1,17
+MORELOS,segunda,Homicidio doloso,4,18
+MORELOS,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,18
+MORELOS,segunda,Robo a repartidor con y sin violencia,1,18
+MORELOS,segunda,Robo a transeúnte en vía pública con violencia,9,18
+MORELOS,segunda,Robo de vehículo sin violencia,3,18
+NAPOLES,primera,Homicidio doloso,1,34
+NAPOLES,primera,Lesiones dolosas por disparo de arma de fuego,1,34
+NAPOLES,primera,Robo a negocio con violencia,3,34
+NAPOLES,primera,Robo a repartidor con y sin violencia,1,34
+NAPOLES,primera,Robo a transeúnte en vía pública con violencia,12,34
+NAPOLES,primera,Robo de vehículo con violencia,2,34
+NAPOLES,primera,Robo de vehículo sin violencia,14,34
+NAPOLES,segunda,Robo a negocio con violencia,1,40
+NAPOLES,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,40
+NAPOLES,segunda,Robo a repartidor con y sin violencia,2,40
+NAPOLES,segunda,Robo a transeúnte en vía pública con violencia,6,40
+NAPOLES,segunda,Robo de vehículo con violencia,3,40
+NAPOLES,segunda,Robo de vehículo sin violencia,27,40
+NARVARTE-ALAMOS,primera,Homicidio doloso,1,49
+NARVARTE-ALAMOS,primera,Robo a negocio con violencia,6,49
+NARVARTE-ALAMOS,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,49
+NARVARTE-ALAMOS,primera,Robo a transeúnte en vía pública con violencia,24,49
+NARVARTE-ALAMOS,primera,Robo de vehículo con violencia,5,49
+NARVARTE-ALAMOS,primera,Robo de vehículo sin violencia,12,49
+NARVARTE-ALAMOS,segunda,Homicidio doloso,1,60
+NARVARTE-ALAMOS,segunda,Robo a negocio con violencia,5,60
+NARVARTE-ALAMOS,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,60
+NARVARTE-ALAMOS,segunda,Robo a transeúnte en vía pública con violencia,22,60
+NARVARTE-ALAMOS,segunda,Robo de vehículo con violencia,2,60
+NARVARTE-ALAMOS,segunda,Robo de vehículo sin violencia,29,60
+NATIVITAS,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,36
+NATIVITAS,primera,Robo a negocio con violencia,14,36
+NATIVITAS,primera,Robo a repartidor con y sin violencia,1,36
+NATIVITAS,primera,Robo a transeúnte en vía pública con violencia,16,36
+NATIVITAS,primera,Robo de vehículo con violencia,1,36
+NATIVITAS,primera,Robo de vehículo sin violencia,3,36
+NATIVITAS,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,30
+NATIVITAS,segunda,Robo a negocio con violencia,5,30
+NATIVITAS,segunda,Robo a repartidor con y sin violencia,1,30
+NATIVITAS,segunda,Robo a transeúnte en vía pública con violencia,9,30
+NATIVITAS,segunda,Robo de vehículo con violencia,2,30
+NATIVITAS,segunda,Robo de vehículo sin violencia,12,30
+OASIS,primera,Homicidio doloso,10,134
+OASIS,primera,Lesiones dolosas por disparo de arma de fuego,3,134
+OASIS,primera,Robo a casa habitación con violencia,1,134
+OASIS,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,134
+OASIS,primera,Robo a negocio con violencia,5,134
+OASIS,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,134
+OASIS,primera,Robo a repartidor con y sin violencia,18,134
+OASIS,primera,Robo a transeúnte en vía pública con violencia,56,134
+OASIS,primera,Robo de vehículo con violencia,7,134
+OASIS,primera,Robo de vehículo sin violencia,30,134
+OASIS,segunda,Homicidio doloso,9,116
+OASIS,segunda,Lesiones dolosas por disparo de arma de fuego,6,116
+OASIS,segunda,Robo a casa habitación con violencia,2,116
+OASIS,segunda,Robo a cuentahabiente saliendo del cajero con violencia,2,116
+OASIS,segunda,Robo a negocio con violencia,7,116
+OASIS,segunda,Robo a pasajero a bordo de microbús con y sin violencia,3,116
+OASIS,segunda,Robo a pasajero a bordo de taxi con violencia,1,116
+OASIS,segunda,Robo a repartidor con y sin violencia,10,116
+OASIS,segunda,Robo a transeúnte en vía pública con violencia,55,116
+OASIS,segunda,Robo de vehículo con violencia,6,116
+OASIS,segunda,Robo de vehículo sin violencia,15,116
+PADIERNA,primera,Homicidio doloso,1,74
+PADIERNA,primera,Robo a casa habitación con violencia,3,74
+PADIERNA,primera,Robo a negocio con violencia,17,74
+PADIERNA,primera,Robo a repartidor con y sin violencia,3,74
+PADIERNA,primera,Robo a transeúnte en vía pública con violencia,13,74
+PADIERNA,primera,Robo de vehículo con violencia,6,74
+PADIERNA,primera,Robo de vehículo sin violencia,31,74
+PADIERNA,segunda,Homicidio doloso,3,87
+PADIERNA,segunda,Lesiones dolosas por disparo de arma de fuego,3,87
+PADIERNA,segunda,Robo a casa habitación con violencia,1,87
+PADIERNA,segunda,Robo a negocio con violencia,15,87
+PADIERNA,segunda,Robo a repartidor con y sin violencia,4,87
+PADIERNA,segunda,Robo a transeúnte en vía pública con violencia,21,87
+PADIERNA,segunda,Robo de vehículo con violencia,9,87
+PADIERNA,segunda,Robo de vehículo sin violencia,31,87
+PANTITLAN,primera,Homicidio doloso,2,69
+PANTITLAN,primera,Robo a casa habitación con violencia,1,69
+PANTITLAN,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,69
+PANTITLAN,primera,Robo a negocio con violencia,4,69
+PANTITLAN,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,69
+PANTITLAN,primera,Robo a pasajero a bordo de taxi con violencia,1,69
+PANTITLAN,primera,Robo a repartidor con y sin violencia,3,69
+PANTITLAN,primera,Robo a transeúnte en vía pública con violencia,21,69
+PANTITLAN,primera,Robo a transportista con y sin violencia,3,69
+PANTITLAN,primera,Robo de vehículo con violencia,10,69
+PANTITLAN,primera,Robo de vehículo sin violencia,20,69
+PANTITLAN,primera,Secuestro,1,69
+PANTITLAN,segunda,Homicidio doloso,2,80
+PANTITLAN,segunda,Robo a negocio con violencia,3,80
+PANTITLAN,segunda,Robo a pasajero a bordo de microbús con y sin violencia,5,80
+PANTITLAN,segunda,Robo a pasajero a bordo del metro con violencia,3,80
+PANTITLAN,segunda,Robo a repartidor con y sin violencia,10,80
+PANTITLAN,segunda,Robo a transeúnte en vía pública con violencia,25,80
+PANTITLAN,segunda,Robo de vehículo con violencia,5,80
+PANTITLAN,segunda,Robo de vehículo sin violencia,27,80
+PLATEROS,primera,Homicidio doloso,5,138
+PLATEROS,primera,Robo a casa habitación con violencia,1,138
+PLATEROS,primera,Robo a negocio con violencia,9,138
+PLATEROS,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,138
+PLATEROS,primera,Robo a pasajero a bordo de taxi con violencia,1,138
+PLATEROS,primera,Robo a repartidor con y sin violencia,6,138
+PLATEROS,primera,Robo a transeúnte en vía pública con violencia,97,138
+PLATEROS,primera,Robo de vehículo con violencia,3,138
+PLATEROS,primera,Robo de vehículo sin violencia,12,138
+PLATEROS,primera,Secuestro,1,138
+PLATEROS,segunda,Homicidio doloso,4,126
+PLATEROS,segunda,Lesiones dolosas por disparo de arma de fuego,2,126
+PLATEROS,segunda,Robo a casa habitación con violencia,1,126
+PLATEROS,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,126
+PLATEROS,segunda,Robo a negocio con violencia,7,126
+PLATEROS,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,126
+PLATEROS,segunda,Robo a repartidor con y sin violencia,8,126
+PLATEROS,segunda,Robo a transeúnte en vía pública con violencia,81,126
+PLATEROS,segunda,Robo de vehículo con violencia,5,126
+PLATEROS,segunda,Robo de vehículo sin violencia,16,126
+POLANCO-CASTILLO,primera,Robo a negocio con violencia,6,24
+POLANCO-CASTILLO,primera,Robo a repartidor con y sin violencia,1,24
+POLANCO-CASTILLO,primera,Robo a transeúnte en vía pública con violencia,11,24
+POLANCO-CASTILLO,primera,Robo de vehículo con violencia,1,24
+POLANCO-CASTILLO,primera,Robo de vehículo sin violencia,5,24
+POLANCO-CASTILLO,segunda,Robo a negocio con violencia,1,19
+POLANCO-CASTILLO,segunda,Robo a pasajero a bordo de taxi con violencia,1,19
+POLANCO-CASTILLO,segunda,Robo a transeúnte en vía pública con violencia,4,19
+POLANCO-CASTILLO,segunda,Robo de vehículo sin violencia,13,19
+PORTALES,primera,Homicidio doloso,2,46
+PORTALES,primera,Lesiones dolosas por disparo de arma de fuego,1,46
+PORTALES,primera,Robo a casa habitación con violencia,1,46
+PORTALES,primera,Robo a negocio con violencia,8,46
+PORTALES,primera,Robo a repartidor con y sin violencia,2,46
+PORTALES,primera,Robo a transeúnte en vía pública con violencia,13,46
+PORTALES,primera,Robo de vehículo con violencia,3,46
+PORTALES,primera,Robo de vehículo sin violencia,16,46
+PORTALES,segunda,Homicidio doloso,1,51
+PORTALES,segunda,Lesiones dolosas por disparo de arma de fuego,2,51
+PORTALES,segunda,Robo a casa habitación con violencia,1,51
+PORTALES,segunda,Robo a negocio con violencia,5,51
+PORTALES,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,51
+PORTALES,segunda,Robo a pasajero a bordo de taxi con violencia,1,51
+PORTALES,segunda,Robo a repartidor con y sin violencia,2,51
+PORTALES,segunda,Robo a transeúnte en vía pública con violencia,10,51
+PORTALES,segunda,Robo de vehículo con violencia,2,51
+PORTALES,segunda,Robo de vehículo sin violencia,26,51
+PRADERA,primera,Homicidio doloso,4,66
+PRADERA,primera,Lesiones dolosas por disparo de arma de fuego,3,66
+PRADERA,primera,Robo a cuentahabiente saliendo del cajero con violencia,3,66
+PRADERA,primera,Robo a negocio con violencia,5,66
+PRADERA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,66
+PRADERA,primera,Robo a repartidor con y sin violencia,1,66
+PRADERA,primera,Robo a transeúnte en vía pública con violencia,14,66
+PRADERA,primera,Robo de vehículo con violencia,12,66
+PRADERA,primera,Robo de vehículo sin violencia,23,66
+PRADERA,segunda,Homicidio doloso,4,73
+PRADERA,segunda,Lesiones dolosas por disparo de arma de fuego,1,73
+PRADERA,segunda,Robo a casa habitación con violencia,2,73
+PRADERA,segunda,Robo a negocio con violencia,8,73
+PRADERA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,3,73
+PRADERA,segunda,Robo a repartidor con y sin violencia,2,73
+PRADERA,segunda,Robo a transeúnte en vía pública con violencia,19,73
+PRADERA,segunda,Robo de vehículo con violencia,6,73
+PRADERA,segunda,Robo de vehículo sin violencia,28,73
+QUETZAL,primera,Homicidio doloso,8,116
+QUETZAL,primera,Lesiones dolosas por disparo de arma de fuego,2,116
+QUETZAL,primera,Robo a casa habitación con violencia,4,116
+QUETZAL,primera,Robo a negocio con violencia,5,116
+QUETZAL,primera,Robo a pasajero a bordo de microbús con y sin violencia,5,116
+QUETZAL,primera,Robo a pasajero a bordo de taxi con violencia,1,116
+QUETZAL,primera,Robo a repartidor con y sin violencia,8,116
+QUETZAL,primera,Robo a transeúnte en vía pública con violencia,49,116
+QUETZAL,primera,Robo de vehículo con violencia,19,116
+QUETZAL,primera,Robo de vehículo sin violencia,15,116
+QUETZAL,segunda,Homicidio doloso,16,124
+QUETZAL,segunda,Lesiones dolosas por disparo de arma de fuego,8,124
+QUETZAL,segunda,Robo a casa habitación con violencia,2,124
+QUETZAL,segunda,Robo a negocio con violencia,15,124
+QUETZAL,segunda,Robo a pasajero a bordo de microbús con y sin violencia,4,124
+QUETZAL,segunda,Robo a repartidor con y sin violencia,6,124
+QUETZAL,segunda,Robo a transeúnte en vía pública con violencia,41,124
+QUETZAL,segunda,Robo de vehículo con violencia,14,124
+QUETZAL,segunda,Robo de vehículo sin violencia,17,124
+QUETZAL,segunda,Secuestro,1,124
+QUIROGA,primera,Homicidio doloso,3,54
+QUIROGA,primera,Lesiones dolosas por disparo de arma de fuego,1,54
+QUIROGA,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,54
+QUIROGA,primera,Robo a negocio con violencia,11,54
+QUIROGA,primera,Robo a repartidor con y sin violencia,4,54
+QUIROGA,primera,Robo a transeúnte en vía pública con violencia,24,54
+QUIROGA,primera,Robo de vehículo con violencia,3,54
+QUIROGA,primera,Robo de vehículo sin violencia,7,54
+QUIROGA,segunda,Homicidio doloso,2,50
+QUIROGA,segunda,Lesiones dolosas por disparo de arma de fuego,2,50
+QUIROGA,segunda,Robo a negocio con violencia,5,50
+QUIROGA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,50
+QUIROGA,segunda,Robo a pasajero a bordo del metro con violencia,1,50
+QUIROGA,segunda,Robo a repartidor con y sin violencia,2,50
+QUIROGA,segunda,Robo a transeúnte en vía pública con violencia,27,50
+QUIROGA,segunda,Robo de vehículo con violencia,2,50
+QUIROGA,segunda,Robo de vehículo sin violencia,7,50
+ROMA,primera,Homicidio doloso,1,41
+ROMA,primera,Robo a negocio con violencia,2,41
+ROMA,primera,Robo a transeúnte en vía pública con violencia,26,41
+ROMA,primera,Robo de vehículo con violencia,2,41
+ROMA,primera,Robo de vehículo sin violencia,10,41
+ROMA,segunda,Robo a casa habitación con violencia,1,51
+ROMA,segunda,Robo a negocio con violencia,6,51
+ROMA,segunda,Robo a pasajero a bordo de taxi con violencia,1,51
+ROMA,segunda,Robo a pasajero a bordo del metro con violencia,1,51
+ROMA,segunda,Robo a transeúnte en vía pública con violencia,19,51
+ROMA,segunda,Robo de vehículo con violencia,2,51
+ROMA,segunda,Robo de vehículo sin violencia,21,51
+SAN ANGEL,primera,Homicidio doloso,1,30
+SAN ANGEL,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,30
+SAN ANGEL,primera,Robo a negocio con violencia,3,30
+SAN ANGEL,primera,Robo a repartidor con y sin violencia,1,30
+SAN ANGEL,primera,Robo a transeúnte en vía pública con violencia,13,30
+SAN ANGEL,primera,Robo de vehículo con violencia,1,30
+SAN ANGEL,primera,Robo de vehículo sin violencia,9,30
+SAN ANGEL,segunda,Homicidio doloso,1,35
+SAN ANGEL,segunda,Robo a negocio con violencia,5,35
+SAN ANGEL,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,35
+SAN ANGEL,segunda,Robo a transeúnte en vía pública con violencia,10,35
+SAN ANGEL,segunda,Robo de vehículo con violencia,3,35
+SAN ANGEL,segunda,Robo de vehículo sin violencia,15,35
+SAN JERONIMO,primera,Homicidio doloso,4,46
+SAN JERONIMO,primera,Lesiones dolosas por disparo de arma de fuego,3,46
+SAN JERONIMO,primera,Robo a casa habitación con violencia,1,46
+SAN JERONIMO,primera,Robo a negocio con violencia,3,46
+SAN JERONIMO,primera,Robo a pasajero a bordo de taxi con violencia,2,46
+SAN JERONIMO,primera,Robo a repartidor con y sin violencia,5,46
+SAN JERONIMO,primera,Robo a transeúnte en vía pública con violencia,11,46
+SAN JERONIMO,primera,Robo de vehículo con violencia,4,46
+SAN JERONIMO,primera,Robo de vehículo sin violencia,13,46
+SAN JERONIMO,segunda,Homicidio doloso,3,39
+SAN JERONIMO,segunda,Lesiones dolosas por disparo de arma de fuego,2,39
+SAN JERONIMO,segunda,Robo a negocio con violencia,1,39
+SAN JERONIMO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,39
+SAN JERONIMO,segunda,Robo a transeúnte en vía pública con violencia,10,39
+SAN JERONIMO,segunda,Robo de vehículo con violencia,2,39
+SAN JERONIMO,segunda,Robo de vehículo sin violencia,20,39
+SANTA CRUZ,primera,Homicidio doloso,11,98
+SANTA CRUZ,primera,Lesiones dolosas por disparo de arma de fuego,1,98
+SANTA CRUZ,primera,Robo a casa habitación con violencia,2,98
+SANTA CRUZ,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,98
+SANTA CRUZ,primera,Robo a negocio con violencia,6,98
+SANTA CRUZ,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,98
+SANTA CRUZ,primera,Robo a pasajero a bordo de taxi con violencia,1,98
+SANTA CRUZ,primera,Robo a repartidor con y sin violencia,2,98
+SANTA CRUZ,primera,Robo a transeúnte en vía pública con violencia,36,98
+SANTA CRUZ,primera,Robo de vehículo con violencia,10,98
+SANTA CRUZ,primera,Robo de vehículo sin violencia,24,98
+SANTA CRUZ,segunda,Homicidio doloso,2,87
+SANTA CRUZ,segunda,Lesiones dolosas por disparo de arma de fuego,5,87
+SANTA CRUZ,segunda,Robo a casa habitación con violencia,1,87
+SANTA CRUZ,segunda,Robo a negocio con violencia,8,87
+SANTA CRUZ,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,87
+SANTA CRUZ,segunda,Robo a repartidor con y sin violencia,8,87
+SANTA CRUZ,segunda,Robo a transeúnte en vía pública con violencia,38,87
+SANTA CRUZ,segunda,Robo de vehículo con violencia,4,87
+SANTA CRUZ,segunda,Robo de vehículo sin violencia,20,87
+SANTA FE,primera,Homicidio doloso,9,100
+SANTA FE,primera,Lesiones dolosas por disparo de arma de fuego,3,100
+SANTA FE,primera,Robo a casa habitación con violencia,1,100
+SANTA FE,primera,Robo a negocio con violencia,9,100
+SANTA FE,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,100
+SANTA FE,primera,Robo a repartidor con y sin violencia,4,100
+SANTA FE,primera,Robo a transeúnte en vía pública con violencia,59,100
+SANTA FE,primera,Robo de vehículo con violencia,1,100
+SANTA FE,primera,Robo de vehículo sin violencia,13,100
+SANTA FE,segunda,Homicidio doloso,4,94
+SANTA FE,segunda,Lesiones dolosas por disparo de arma de fuego,3,94
+SANTA FE,segunda,Robo a negocio con violencia,8,94
+SANTA FE,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,94
+SANTA FE,segunda,Robo a repartidor con y sin violencia,4,94
+SANTA FE,segunda,Robo a transeúnte en vía pública con violencia,57,94
+SANTA FE,segunda,Robo de vehículo con violencia,3,94
+SANTA FE,segunda,Robo de vehículo sin violencia,14,94
+SOTELO,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,24
+SOTELO,primera,Robo a negocio con violencia,3,24
+SOTELO,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,24
+SOTELO,primera,Robo a repartidor con y sin violencia,1,24
+SOTELO,primera,Robo a transeúnte en vía pública con violencia,13,24
+SOTELO,primera,Robo de vehículo con violencia,1,24
+SOTELO,primera,Robo de vehículo sin violencia,4,24
+SOTELO,segunda,Homicidio doloso,3,39
+SOTELO,segunda,Robo a casa habitación con violencia,1,39
+SOTELO,segunda,Robo a negocio con violencia,9,39
+SOTELO,segunda,Robo a pasajero a bordo de taxi con violencia,1,39
+SOTELO,segunda,Robo a repartidor con y sin violencia,1,39
+SOTELO,segunda,Robo a transeúnte en vía pública con violencia,17,39
+SOTELO,segunda,Robo de vehículo sin violencia,6,39
+SOTELO,segunda,Secuestro,1,39
+Sin Sector,primera,Homicidio doloso,8,220
+Sin Sector,primera,Lesiones dolosas por disparo de arma de fuego,50,220
+Sin Sector,primera,Robo a casa habitación con violencia,1,220
+Sin Sector,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,220
+Sin Sector,primera,Robo a negocio con violencia,7,220
+Sin Sector,primera,Robo a pasajero a bordo de microbús con y sin violencia,10,220
+Sin Sector,primera,Robo a pasajero a bordo de taxi con violencia,7,220
+Sin Sector,primera,Robo a pasajero a bordo del metro con violencia,1,220
+Sin Sector,primera,Robo a repartidor con y sin violencia,8,220
+Sin Sector,primera,Robo a transeúnte en vía pública con violencia,14,220
+Sin Sector,primera,Robo a transportista con y sin violencia,1,220
+Sin Sector,primera,Robo de vehículo con violencia,23,220
+Sin Sector,primera,Robo de vehículo sin violencia,88,220
+Sin Sector,segunda,Homicidio doloso,6,195
+Sin Sector,segunda,Lesiones dolosas por disparo de arma de fuego,59,195
+Sin Sector,segunda,Robo a cuentahabiente saliendo del cajero con violencia,2,195
+Sin Sector,segunda,Robo a negocio con violencia,1,195
+Sin Sector,segunda,Robo a pasajero a bordo de microbús con y sin violencia,6,195
+Sin Sector,segunda,Robo a pasajero a bordo de taxi con violencia,5,195
+Sin Sector,segunda,Robo a pasajero a bordo del metro con violencia,1,195
+Sin Sector,segunda,Robo a repartidor con y sin violencia,3,195
+Sin Sector,segunda,Robo a transeúnte en vía pública con violencia,12,195
+Sin Sector,segunda,Robo de vehículo con violencia,11,195
+Sin Sector,segunda,Robo de vehículo sin violencia,88,195
+Sin Sector,segunda,Secuestro,1,195
+TACUBA,primera,Homicidio doloso,8,88
+TACUBA,primera,Robo a negocio con violencia,13,88
+TACUBA,primera,Robo a repartidor con y sin violencia,4,88
+TACUBA,primera,Robo a transeúnte en vía pública con violencia,49,88
+TACUBA,primera,Robo de vehículo con violencia,2,88
+TACUBA,primera,Robo de vehículo sin violencia,12,88
+TACUBA,segunda,Homicidio doloso,2,101
+TACUBA,segunda,Lesiones dolosas por disparo de arma de fuego,1,101
+TACUBA,segunda,Robo a casa habitación con violencia,1,101
+TACUBA,segunda,Robo a negocio con violencia,24,101
+TACUBA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,101
+TACUBA,segunda,Robo a repartidor con y sin violencia,6,101
+TACUBA,segunda,Robo a transeúnte en vía pública con violencia,39,101
+TACUBA,segunda,Robo de vehículo con violencia,5,101
+TACUBA,segunda,Robo de vehículo sin violencia,21,101
+TACUBAYA,primera,Homicidio doloso,1,45
+TACUBAYA,primera,Lesiones dolosas por disparo de arma de fuego,2,45
+TACUBAYA,primera,Robo a negocio con violencia,5,45
+TACUBAYA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,45
+TACUBAYA,primera,Robo a transeúnte en vía pública con violencia,28,45
+TACUBAYA,primera,Robo de vehículo con violencia,1,45
+TACUBAYA,primera,Robo de vehículo sin violencia,7,45
+TACUBAYA,segunda,Robo a negocio con violencia,2,37
+TACUBAYA,segunda,Robo a repartidor con y sin violencia,1,37
+TACUBAYA,segunda,Robo a transeúnte en vía pública con violencia,25,37
+TACUBAYA,segunda,Robo de vehículo sin violencia,9,37
+TAXQUEÑA,primera,Homicidio doloso,4,59
+TAXQUEÑA,primera,Robo a negocio con violencia,10,59
+TAXQUEÑA,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,59
+TAXQUEÑA,primera,Robo a transeúnte en vía pública con violencia,25,59
+TAXQUEÑA,primera,Robo de vehículo con violencia,3,59
+TAXQUEÑA,primera,Robo de vehículo sin violencia,16,59
+TAXQUEÑA,segunda,Homicidio doloso,2,63
+TAXQUEÑA,segunda,Lesiones dolosas por disparo de arma de fuego,1,63
+TAXQUEÑA,segunda,Robo a negocio con violencia,10,63
+TAXQUEÑA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,63
+TAXQUEÑA,segunda,Robo a pasajero a bordo de taxi con violencia,1,63
+TAXQUEÑA,segunda,Robo a pasajero a bordo del metro con violencia,1,63
+TAXQUEÑA,segunda,Robo a repartidor con y sin violencia,2,63
+TAXQUEÑA,segunda,Robo a transeúnte en vía pública con violencia,17,63
+TAXQUEÑA,segunda,Robo de vehículo con violencia,5,63
+TAXQUEÑA,segunda,Robo de vehículo sin violencia,22,63
+TECOMITL,primera,Homicidio doloso,2,8
+TECOMITL,primera,Robo de vehículo con violencia,1,8
+TECOMITL,primera,Robo de vehículo sin violencia,5,8
+TECOMITL,segunda,Homicidio doloso,1,14
+TECOMITL,segunda,Robo a transeúnte en vía pública con violencia,5,14
+TECOMITL,segunda,Robo de vehículo con violencia,4,14
+TECOMITL,segunda,Robo de vehículo sin violencia,4,14
+TEOTONGO,primera,Homicidio doloso,3,84
+TEOTONGO,primera,Lesiones dolosas por disparo de arma de fuego,1,84
+TEOTONGO,primera,Robo a casa habitación con violencia,1,84
+TEOTONGO,primera,Robo a negocio con violencia,8,84
+TEOTONGO,primera,Robo a pasajero a bordo de microbús con y sin violencia,2,84
+TEOTONGO,primera,Robo a pasajero a bordo de taxi con violencia,1,84
+TEOTONGO,primera,Robo a transeúnte en vía pública con violencia,37,84
+TEOTONGO,primera,Robo de vehículo con violencia,9,84
+TEOTONGO,primera,Robo de vehículo sin violencia,22,84
+TEOTONGO,segunda,Homicidio doloso,3,80
+TEOTONGO,segunda,Lesiones dolosas por disparo de arma de fuego,3,80
+TEOTONGO,segunda,Robo a casa habitación con violencia,1,80
+TEOTONGO,segunda,Robo a cuentahabiente saliendo del cajero con violencia,2,80
+TEOTONGO,segunda,Robo a negocio con violencia,6,80
+TEOTONGO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,80
+TEOTONGO,segunda,Robo a repartidor con y sin violencia,6,80
+TEOTONGO,segunda,Robo a transeúnte en vía pública con violencia,34,80
+TEOTONGO,segunda,Robo de vehículo con violencia,8,80
+TEOTONGO,segunda,Robo de vehículo sin violencia,16,80
+TEPEPAN,primera,Homicidio doloso,9,85
+TEPEPAN,primera,Lesiones dolosas por disparo de arma de fuego,3,85
+TEPEPAN,primera,Robo a casa habitación con violencia,3,85
+TEPEPAN,primera,Robo a negocio con violencia,9,85
+TEPEPAN,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,85
+TEPEPAN,primera,Robo a repartidor con y sin violencia,6,85
+TEPEPAN,primera,Robo a transeúnte en vía pública con violencia,22,85
+TEPEPAN,primera,Robo de vehículo con violencia,11,85
+TEPEPAN,primera,Robo de vehículo sin violencia,18,85
+TEPEPAN,primera,Secuestro,1,85
+TEPEPAN,segunda,Homicidio doloso,6,63
+TEPEPAN,segunda,Lesiones dolosas por disparo de arma de fuego,4,63
+TEPEPAN,segunda,Robo a casa habitación con violencia,1,63
+TEPEPAN,segunda,Robo a negocio con violencia,2,63
+TEPEPAN,segunda,Robo a repartidor con y sin violencia,3,63
+TEPEPAN,segunda,Robo a transeúnte en vía pública con violencia,17,63
+TEPEPAN,segunda,Robo de vehículo con violencia,7,63
+TEPEPAN,segunda,Robo de vehículo sin violencia,23,63
+TEPEYAC,primera,Homicidio doloso,1,45
+TEPEYAC,primera,Robo a casa habitación con violencia,1,45
+TEPEYAC,primera,Robo a negocio con violencia,1,45
+TEPEYAC,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,45
+TEPEYAC,primera,Robo a pasajero a bordo de taxi con violencia,1,45
+TEPEYAC,primera,Robo a repartidor con y sin violencia,1,45
+TEPEYAC,primera,Robo a transeúnte en vía pública con violencia,19,45
+TEPEYAC,primera,Robo a transportista con y sin violencia,1,45
+TEPEYAC,primera,Robo de vehículo con violencia,8,45
+TEPEYAC,primera,Robo de vehículo sin violencia,11,45
+TEPEYAC,segunda,Homicidio doloso,2,53
+TEPEYAC,segunda,Lesiones dolosas por disparo de arma de fuego,2,53
+TEPEYAC,segunda,Robo a cuentahabiente saliendo del cajero con violencia,4,53
+TEPEYAC,segunda,Robo a negocio con violencia,5,53
+TEPEYAC,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,53
+TEPEYAC,segunda,Robo a pasajero a bordo de taxi con violencia,1,53
+TEPEYAC,segunda,Robo a pasajero a bordo del metro con violencia,1,53
+TEPEYAC,segunda,Robo a repartidor con y sin violencia,1,53
+TEPEYAC,segunda,Robo a transeúnte en vía pública con violencia,19,53
+TEPEYAC,segunda,Robo de vehículo con violencia,8,53
+TEPEYAC,segunda,Robo de vehículo sin violencia,9,53
+TEZONCO,primera,Homicidio doloso,9,121
+TEZONCO,primera,Lesiones dolosas por disparo de arma de fuego,5,121
+TEZONCO,primera,Robo a casa habitación con violencia,2,121
+TEZONCO,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,121
+TEZONCO,primera,Robo a negocio con violencia,4,121
+TEZONCO,primera,Robo a pasajero a bordo de microbús con y sin violencia,6,121
+TEZONCO,primera,Robo a pasajero a bordo de taxi con violencia,1,121
+TEZONCO,primera,Robo a repartidor con y sin violencia,3,121
+TEZONCO,primera,Robo a transeúnte en vía pública con violencia,33,121
+TEZONCO,primera,Robo de vehículo con violencia,14,121
+TEZONCO,primera,Robo de vehículo sin violencia,42,121
+TEZONCO,segunda,Homicidio doloso,12,127
+TEZONCO,segunda,Lesiones dolosas por disparo de arma de fuego,5,127
+TEZONCO,segunda,Robo a casa habitación con violencia,1,127
+TEZONCO,segunda,Robo a negocio con violencia,15,127
+TEZONCO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,5,127
+TEZONCO,segunda,Robo a repartidor con y sin violencia,7,127
+TEZONCO,segunda,Robo a transeúnte en vía pública con violencia,46,127
+TEZONCO,segunda,Robo de vehículo con violencia,7,127
+TEZONCO,segunda,Robo de vehículo sin violencia,29,127
+TICOMAN,primera,Homicidio doloso,4,58
+TICOMAN,primera,Lesiones dolosas por disparo de arma de fuego,1,58
+TICOMAN,primera,Robo a casa habitación con violencia,1,58
+TICOMAN,primera,Robo a cuentahabiente saliendo del cajero con violencia,2,58
+TICOMAN,primera,Robo a negocio con violencia,9,58
+TICOMAN,primera,Robo a pasajero a bordo de taxi con violencia,1,58
+TICOMAN,primera,Robo a repartidor con y sin violencia,3,58
+TICOMAN,primera,Robo a transeúnte en vía pública con violencia,10,58
+TICOMAN,primera,Robo de vehículo con violencia,9,58
+TICOMAN,primera,Robo de vehículo sin violencia,18,58
+TICOMAN,segunda,Homicidio doloso,2,46
+TICOMAN,segunda,Robo a pasajero a bordo de microbús con y sin violencia,2,46
+TICOMAN,segunda,Robo a repartidor con y sin violencia,4,46
+TICOMAN,segunda,Robo a transeúnte en vía pública con violencia,9,46
+TICOMAN,segunda,Robo de vehículo con violencia,6,46
+TICOMAN,segunda,Robo de vehículo sin violencia,23,46
+TLACOTAL,primera,Homicidio doloso,2,66
+TLACOTAL,primera,Lesiones dolosas por disparo de arma de fuego,3,66
+TLACOTAL,primera,Robo a negocio con violencia,7,66
+TLACOTAL,primera,Robo a pasajero a bordo de taxi con violencia,1,66
+TLACOTAL,primera,Robo a pasajero a bordo del metro con violencia,1,66
+TLACOTAL,primera,Robo a repartidor con y sin violencia,1,66
+TLACOTAL,primera,Robo a transeúnte en vía pública con violencia,25,66
+TLACOTAL,primera,Robo de vehículo con violencia,7,66
+TLACOTAL,primera,Robo de vehículo sin violencia,19,66
+TLACOTAL,segunda,Homicidio doloso,3,76
+TLACOTAL,segunda,Lesiones dolosas por disparo de arma de fuego,2,76
+TLACOTAL,segunda,Robo a casa habitación con violencia,2,76
+TLACOTAL,segunda,Robo a cuentahabiente saliendo del cajero con violencia,1,76
+TLACOTAL,segunda,Robo a negocio con violencia,5,76
+TLACOTAL,segunda,Robo a pasajero a bordo de microbús con y sin violencia,5,76
+TLACOTAL,segunda,Robo a repartidor con y sin violencia,3,76
+TLACOTAL,segunda,Robo a transeúnte en vía pública con violencia,28,76
+TLACOTAL,segunda,Robo de vehículo con violencia,11,76
+TLACOTAL,segunda,Robo de vehículo sin violencia,16,76
+TLATELOLCO,primera,Lesiones dolosas por disparo de arma de fuego,1,37
+TLATELOLCO,primera,Robo a casa habitación con violencia,1,37
+TLATELOLCO,primera,Robo a negocio con violencia,3,37
+TLATELOLCO,primera,Robo a pasajero a bordo de taxi con violencia,1,37
+TLATELOLCO,primera,Robo a repartidor con y sin violencia,2,37
+TLATELOLCO,primera,Robo a transeúnte en vía pública con violencia,22,37
+TLATELOLCO,primera,Robo de vehículo con violencia,1,37
+TLATELOLCO,primera,Robo de vehículo sin violencia,6,37
+TLATELOLCO,segunda,Homicidio doloso,7,35
+TLATELOLCO,segunda,Robo a negocio con violencia,3,35
+TLATELOLCO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,1,35
+TLATELOLCO,segunda,Robo a repartidor con y sin violencia,1,35
+TLATELOLCO,segunda,Robo a transeúnte en vía pública con violencia,17,35
+TLATELOLCO,segunda,Robo de vehículo sin violencia,6,35
+TOPILEJO,primera,Homicidio doloso,4,67
+TOPILEJO,primera,Lesiones dolosas por disparo de arma de fuego,4,67
+TOPILEJO,primera,Robo a casa habitación con violencia,2,67
+TOPILEJO,primera,Robo a negocio con violencia,5,67
+TOPILEJO,primera,Robo a pasajero a bordo de microbús con y sin violencia,1,67
+TOPILEJO,primera,Robo a repartidor con y sin violencia,5,67
+TOPILEJO,primera,Robo a transeúnte en vía pública con violencia,16,67
+TOPILEJO,primera,Robo a transportista con y sin violencia,1,67
+TOPILEJO,primera,Robo de vehículo con violencia,15,67
+TOPILEJO,primera,Robo de vehículo sin violencia,14,67
+TOPILEJO,segunda,Homicidio doloso,12,87
+TOPILEJO,segunda,Lesiones dolosas por disparo de arma de fuego,3,87
+TOPILEJO,segunda,Robo a casa habitación con violencia,3,87
+TOPILEJO,segunda,Robo a negocio con violencia,6,87
+TOPILEJO,segunda,Robo a repartidor con y sin violencia,3,87
+TOPILEJO,segunda,Robo a transeúnte en vía pública con violencia,19,87
+TOPILEJO,segunda,Robo de vehículo con violencia,27,87
+TOPILEJO,segunda,Robo de vehículo sin violencia,14,87
+UNIVERSIDAD,primera,Homicidio doloso,2,71
+UNIVERSIDAD,primera,Robo a casa habitación con violencia,1,71
+UNIVERSIDAD,primera,Robo a cuentahabiente saliendo del cajero con violencia,1,71
+UNIVERSIDAD,primera,Robo a negocio con violencia,5,71
+UNIVERSIDAD,primera,Robo a pasajero a bordo de taxi con violencia,2,71
+UNIVERSIDAD,primera,Robo a repartidor con y sin violencia,1,71
+UNIVERSIDAD,primera,Robo a transeúnte en vía pública con violencia,27,71
+UNIVERSIDAD,primera,Robo de vehículo con violencia,7,71
+UNIVERSIDAD,primera,Robo de vehículo sin violencia,25,71
+UNIVERSIDAD,segunda,Homicidio doloso,3,76
+UNIVERSIDAD,segunda,Lesiones dolosas por disparo de arma de fuego,1,76
+UNIVERSIDAD,segunda,Robo a cuentahabiente saliendo del cajero con violencia,5,76
+UNIVERSIDAD,segunda,Robo a negocio con violencia,9,76
+UNIVERSIDAD,segunda,Robo a pasajero a bordo de microbús con y sin violencia,9,76
+UNIVERSIDAD,segunda,Robo a repartidor con y sin violencia,1,76
+UNIVERSIDAD,segunda,Robo a transeúnte en vía pública con violencia,23,76
+UNIVERSIDAD,segunda,Robo de vehículo con violencia,5,76
+UNIVERSIDAD,segunda,Robo de vehículo sin violencia,20,76
+XOTEPINGO,primera,Homicidio doloso,2,85
+XOTEPINGO,primera,Robo a negocio con violencia,15,85
+XOTEPINGO,primera,Robo a pasajero a bordo de taxi con violencia,1,85
+XOTEPINGO,primera,Robo a repartidor con y sin violencia,2,85
+XOTEPINGO,primera,Robo a transeúnte en vía pública con violencia,32,85
+XOTEPINGO,primera,Robo de vehículo con violencia,7,85
+XOTEPINGO,primera,Robo de vehículo sin violencia,26,85
+XOTEPINGO,segunda,Homicidio doloso,3,86
+XOTEPINGO,segunda,Lesiones dolosas por disparo de arma de fuego,1,86
+XOTEPINGO,segunda,Robo a casa habitación con violencia,2,86
+XOTEPINGO,segunda,Robo a negocio con violencia,15,86
+XOTEPINGO,segunda,Robo a pasajero a bordo de microbús con y sin violencia,3,86
+XOTEPINGO,segunda,Robo a pasajero a bordo de taxi con violencia,2,86
+XOTEPINGO,segunda,Robo a repartidor con y sin violencia,2,86
+XOTEPINGO,segunda,Robo a transeúnte en vía pública con violencia,22,86
+XOTEPINGO,segunda,Robo de vehículo con violencia,8,86
+XOTEPINGO,segunda,Robo de vehículo sin violencia,28,86
+ZAPOTITLA,primera,Homicidio doloso,6,69
+ZAPOTITLA,primera,Lesiones dolosas por disparo de arma de fuego,1,69
+ZAPOTITLA,primera,Robo a negocio con violencia,7,69
+ZAPOTITLA,primera,Robo a pasajero a bordo de microbús con y sin violencia,3,69
+ZAPOTITLA,primera,Robo a pasajero a bordo de taxi con violencia,1,69
+ZAPOTITLA,primera,Robo a repartidor con y sin violencia,1,69
+ZAPOTITLA,primera,Robo a transeúnte en vía pública con violencia,17,69
+ZAPOTITLA,primera,Robo de vehículo con violencia,8,69
+ZAPOTITLA,primera,Robo de vehículo sin violencia,25,69
+ZAPOTITLA,segunda,Homicidio doloso,5,89
+ZAPOTITLA,segunda,Lesiones dolosas por disparo de arma de fuego,3,89
+ZAPOTITLA,segunda,Robo a casa habitación con violencia,1,89
+ZAPOTITLA,segunda,Robo a negocio con violencia,13,89
+ZAPOTITLA,segunda,Robo a pasajero a bordo de microbús con y sin violencia,4,89
+ZAPOTITLA,segunda,Robo a pasajero a bordo de taxi con violencia,1,89
+ZAPOTITLA,segunda,Robo a repartidor con y sin violencia,3,89
+ZAPOTITLA,segunda,Robo a transeúnte en vía pública con violencia,18,89
+ZAPOTITLA,segunda,Robo de vehículo con violencia,6,89
+ZAPOTITLA,segunda,Robo de vehículo sin violencia,35,89
+ZARAGOZA,primera,Lesiones dolosas por disparo de arma de fuego,1,20
+ZARAGOZA,primera,Robo a casa habitación con violencia,1,20
+ZARAGOZA,primera,Robo a negocio con violencia,3,20
+ZARAGOZA,primera,Robo a pasajero a bordo de taxi con violencia,1,20
+ZARAGOZA,primera,Robo a repartidor con y sin violencia,1,20
+ZARAGOZA,primera,Robo a transeúnte en vía pública con violencia,3,20
+ZARAGOZA,primera,Robo de vehículo con violencia,6,20
+ZARAGOZA,primera,Robo de vehículo sin violencia,4,20
+ZARAGOZA,segunda,Robo a negocio con violencia,2,21
+ZARAGOZA,segunda,Robo a pasajero a bordo de taxi con violencia,1,21
+ZARAGOZA,segunda,Robo a repartidor con y sin violencia,1,21
+ZARAGOZA,segunda,Robo a transeúnte en vía pública con violencia,5,21
+ZARAGOZA,segunda,Robo de vehículo con violencia,2,21
+ZARAGOZA,segunda,Robo de vehículo sin violencia,10,21
