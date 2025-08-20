@@ -2,36 +2,42 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 
-# Cargar datos
-df = pd.read_csv('../datos/dataset.csv')
+df = pd.read_csv('../datos/resumen_delitos_por_sector.csv')
 print("Datos cargados:")
 print(df.head())
 print(f"\nForma del dataset: {df.shape}")
 
-# Crear gráfico de dispersión con Plotly
 fig = px.scatter(
     df, 
-    x='ingresos', 
-    y='gastos', 
-    color='ciudad',
-    size='score_credito',
-    title='Relación entre Ingresos y Gastos por Ciudad',
+    x='total_delitos', 
+    y='total_delitos', 
+    color='evaluacion',
+    size='total_delitos',
+    title='Gráfica de dispersión por sector',
     labels={
-        'ingresos': 'Ingresos Anuales (€)',
-        'gastos': 'Gastos Anuales (€)',
-        'ciudad': 'Ciudad',
-        'score_credito': 'Score Crediticio'
+        'nombre_sec': 'nombre_sec',
+        'nombre_sec': 'nombre_sec',
+        'categoria_delito': 'categoria_delito'
     },
-    hover_data=['edad']
+    hover_data=['total_delitos']
 )
 
-# Personalizar el gráfico
 fig.update_layout(
-    width=1000,
-    height=600,
+    width=1500,
+    height=1000,
     font=dict(size=12)
 )
 
-# Guardar como HTML interactivo
+def update_bar_chart(slider_range):
+    df = pd.read_csv('../datos/resumen_delitos_por_sector.csv')
+    low, high = slider_range
+    mask = (df['petal_width'] > low) & (df['petal_width'] < high)
+    fig = px.scatter(
+        df[mask], x="sepal_width", y="sepal_length",
+        color="species", size='petal_length',
+        hover_data=['petal_width'])
+    return fig
+
+update_bar_chart(df['total_delitos'])
+
 pio.write_html(fig, '../salidas/plotly_scatter.html')
-print("Gráfico de Plotly guardado en outputs/plotly_scatter.html")
